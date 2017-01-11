@@ -1,0 +1,29 @@
+/*ss重置样式  */
+body,div,i,a,p,span,b,input,h1,h2,h3,h4,h5,h6,ul,ol,dl,li,dd,dt,textarea,img{margin:0;padding:0;}
+body{font-family: microsoft yahei;color:#333;}
+i,b{font-style: normal;}
+a{text-decoration:none;}
+img{vertical-align:top;width: 100%;}
+input,textarea,select,textarea,img,a{resize: none;outline: none;border: none;}
+li{list-style: none}
+h1,h2,h3,h4,h5,h6{font-weight: normal;}
+.clearfix:after{content: '';display: block;height:0;clear: both;font-size:0;*zoom:1}
+html,body,.index{width:100%;}
+
+.index .header{position: relative;}
+.index .header a{position: absolute;right: 1%;top:1%;color:#ebb6b7;font-size: 13px;}
+.index .main{position:relative;}
+.index .main .inmain{position:absolute;left:0;top:0;width:100%;height:100%;}
+.index .main .inmain1{top:14%;}
+.index .main .inmain a{display:block;height:16%;}
+.index .main .inmain1 a{display:block;height:26%;}
+
+
+.index .footer{position: relative;}
+.index .footer a{position:absolute;left:50%;width:60%;color:#fff;font-size:16px;font-weight:bold;margin-left:-30%;text-align:center;}
+.index .footer .bota{bottom:42%;height:11%;}
+.index .footer .botb{bottom:28%;height:11%;}
+.index .footer .botc{bottom:4%;margin-left:-143px;width:93%;color:#eb370e;font-size:14px;}
+
+
+
